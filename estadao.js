@@ -1,1 +1,5 @@
-(function () { console.log('test'); });
+(function () {
+    $(function () {
+        console.log('teste');
+    });
+})();
